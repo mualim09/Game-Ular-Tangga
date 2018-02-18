@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nama
+comment0.target=pemain(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getNama()
+comment2.params=nama
+comment2.target=void\ setNama(java.lang.String)
+comment3.params=
+comment3.target=int\ getNilai()
+comment4.params=nilai
+comment4.target=void\ setNilai(int)
+numComments=5

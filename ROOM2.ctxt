@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ROOM2()
+comment1.params=arg0
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment10.params=main\ pos
+comment10.target=void\ tranfor(int,\ int)
+comment2.params=arg0
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=arg0
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=arg0
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=arg0
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=arg0
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=arg0
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=main\ pos
+comment8.target=void\ posisi(int,\ int)
+comment9.params=main\ pos
+comment9.target=void\ sekak(int,\ int)
+numComments=11
